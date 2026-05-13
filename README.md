@@ -5,7 +5,7 @@
 🚀 Маркетинговый аналитик с 3-летним опытом в режиме апгрейда до дата-аналитика  
 ❤️ Люблю работать с данными: искать закономерности и формулировать гипотезы на основе данных  
 🔥 Умею говорить на языке бизнеса, и где бы я ни была, всегда-всегда думаю, что здесь хорошо, а что стоит улучшить  
-💥 Без экспериментов – никуда! Провела 30+ A/B тестов в рекламе. Один из них (смена посадочной страницы на кастомный квиз) позволил снизить CPL на 76% — с 18 296 ₽ до 4 333 ₽  
+💥 Без экспериментов – никуда! Провела 30+ A/B тестов в рекламе. Один из них (смена посадочной страницы на кастомный квиз) позволил снизить CPL на 76%
 💃 Обучилась в karpov.courses и прокачала аналитический стек: Python, SQL и статистика – я теперь такоооое могу. Посмотрите?  
 
 | Проект | Описание проекта | Стек              |
@@ -17,12 +17,11 @@
 
 ## Инструменты 🛠️
 
-![Python](https://img.shields.io/badge/PYTHON-1F0021?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-2D031D?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SCIPY-3C0518?style=for-the-badge&logo=scipy&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-4A0814?style=for-the-badge&logo=numpy&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-590D22?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-800F2F?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-C9184A?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/PLOTLY-A4133C?style=for-the-badge&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF4D6D?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
