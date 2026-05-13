@@ -35,8 +35,9 @@
 ![Plotly](https://img.shields.io/badge/PLOTLY-A4133C?style=for-the-badge&logo=plotly&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-D6336C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redash](https://img.shields.io/badge/REDASH-E64980?style=for-the-badge&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/AIRFLOW-FF4D6D?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-FF758F?style=for-the-badge&logo=git&logoColor=white)
+![Airflow](https://img.shields.io/badge/AIRFLOW-FF758F?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-FF4D6D?style=for-the-badge&logo=git&logoColor=white)
+
 
 <!--
 **elizawetav/elizawetav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
