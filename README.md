@@ -1,5 +1,5 @@
 <h1 align="center">Привет, меня зовут Лиза ✨ </a> 
-<h3 align="center">Добро пожаловать в мир данных обо мне🔎💙</h3>
+<h3 align="center">Добро пожаловать в мир данных обо мне 🔎💙</h3>
 
 #### И вот, что важно знать...
 🚀 Маркетинговый аналитик с 3-летним опытом в режиме апгрейда до дата-аналитика  
@@ -15,7 +15,7 @@
 |     3 |                   |                   |
 
 
-## Инструменты 🛠️
+#### Инструменты 🛠️
 
 ![Python](https://img.shields.io/badge/PYTHON-590D22?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-800F2F?style=for-the-badge&logo=pandas&logoColor=white)
