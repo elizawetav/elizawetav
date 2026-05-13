@@ -21,22 +21,27 @@
 ![Pandas](https://img.shields.io/badge/PANDAS-800F2F?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-C9184A?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/PLOTLY-A4133C?style=for-the-badge&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF4D6D?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redash](https://img.shields.io/badge/REDASH-FF758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/JUPITER_NOTEBOOK-FF8FA3?style=for-the-badge&logo=jupyter&logoColor=white)
-![Airflow](https://img.shields.io/badge/AIRFLOW-FFB3C1?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-FFCCD5?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-![Python](https://img.shields.io/badge/PYTHON-590D22?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-800F2F?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-C9184A?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/PLOTLY-A4133C?style=for-the-badge&logo=plotly&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-D6336C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redash](https://img.shields.io/badge/REDASH-E64980?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Airflow](https://img.shields.io/badge/AIRFLOW-FF758F?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-FF4D6D?style=for-the-badge&logo=git&logoColor=white)
+
+
+![Python](https://img.shields.io/badge/PYTHON-5F041E?style=for-the-badge&logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/PANDAS-5B041D?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NUMPY-56041B?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Plotly](https://img.shields.io/badge/PLOTLY-4C0418?style=for-the-badge&logo=plotly&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-390312?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Redash](https://img.shields.io/badge/REDASH-26020C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Airflow](https://img.shields.io/badge/AIRFLOW-1D0209?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-180208?style=for-the-badge&logo=git&logoColor=white)
 
 
 <!--
