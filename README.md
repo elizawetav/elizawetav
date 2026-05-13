@@ -22,6 +22,9 @@
 ![NumPy](https://img.shields.io/badge/NUMPY-C9184A?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/PLOTLY-A4133C?style=for-the-badge&logo=plotly&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF4D6D?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/JUPUTER_NOTEBOOK-FF758F?style=for-the-badge&logo=jupyternotebook&logoColor=white)
+![Airflow](https://img.shields.io/badge/AIRFLOW-FF8FA3?style=for-the-badge&logo=airflow&logoColor=white)
+![Git](https://img.shields.io/badge/SQL-FFB3C1?style=for-the-badge&logo=git&logoColor=white)
 
 
 
