@@ -33,10 +33,10 @@
 ![Pandas](https://img.shields.io/badge/PANDAS-800F2F?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-C9184A?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/PLOTLY-A4133C?style=for-the-badge&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF4D6D?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redash](https://img.shields.io/badge/REDASH-FF758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/AIRFLOW-E64980?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-D6336C?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-D6336C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redash](https://img.shields.io/badge/REDASH-E64980?style=for-the-badge&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/AIRFLOW-FF4D6D?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-FF758F?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 **elizawetav/elizawetav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
