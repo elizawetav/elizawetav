@@ -17,12 +17,12 @@
 
 ## Инструменты 🛠️
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-1F0021?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-2D031D?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SCIPY-3C0518?style=for-the-badge&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-4A0814?style=for-the-badge&logo=numpy&logoColor=white)
 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
