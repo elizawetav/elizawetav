@@ -25,17 +25,6 @@
 
 
 
-## Инструменты2
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sqlite,pandas,scipy,numpy,sklearn,linux)](https://skillicons.dev)
-
-## Инструменты 3
-<div align="center">
-
-## Languages and tools 🛠️
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
 
 <!--
 **elizawetav/elizawetav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
