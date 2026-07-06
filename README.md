@@ -24,7 +24,7 @@
 |[Аналитика поведения игроков мобильной игры](https://github.com/elizawetav/final_project) | Разработка функции расчета retention игроков. Анализ результатов A/B теста (т-тест, бутстрап, хи-квадрат)| pandas, numpy, pingouin, seaborn, matplotlib |                  
 |[Анализ эффективности рекламных офферов для ЖК бизнес-класса в Яндекс.Директ](https://github.com/elizawetav/best_practices)|Агрегация данных по уникальным рекламным заголовкам, расчет маркетинговых метрик и автоматическая классификация объявлений по смысловым категориям с помощью функций и регулярных выражений|pandas, numpy, re, seaborn|
 |[Анализ ключевых метрик роста маркетплейса](https://github.com/elizawetav/marketplace) | Когортный анализ, product/market fit, приоритизация гипотез по методу ICE| pandas, numpy, matplotlib, seaborn|
-|[Комплексный анализ маркетплейса (SQL)](https://github.com/elizawetav/marketplace) | Запросы по группировке, джоинам, оконным функциям, cte| SQL, Redash|
+|[Комплексный анализ маркетплейса (SQL)](https://github.com/elizawetav/sql_marketplace) | Запросы по группировке, джоинам, оконным функциям, cte| SQL, Redash|
 
 <!--
 **elizawetav/elizawetav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
